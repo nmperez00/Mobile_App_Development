@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RoomQuest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">CSUSB</string>
+    <string name="nav_header_subtitle">5500 University Parkway, San Bernardino CA 92407</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="address_search_hint">Search room</string>
+    <string name="geo_locate_error">Geocode failed on address.</string>
+    <string name="location_not_found">No location with that name: </string>
+    <string name="action_search">Search</string>
+    <string name="grid_icon">Grid</string>
+    <string name="reset_button">RESET</string>
+    <string name="location_permission_denied">LocationDisplayManager cannot run because location permission was denied</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="MapServer">http://coyotequest.cse.csusb.edu:6080/arcgis/rest/services/RoomQuest_V1/MapServer</string>
+    <string name="GeocodeServer">http://coyotequest.cse.csusb.edu:6080/arcgis/rest/services/CampusLocator/GeocodeServer</string>
+    <string name="routing_service">http://coyotequest.cse.csusb.edu:6080/arcgis/rest/services/Test_Route_Map/NAServer/Route</string>
+    <string name="progress_title">Finding Route</string>
+    <string name="progress_message">Please wait&#8230;</string>
+    <string name="todo">TODO</string>
+</resources>
